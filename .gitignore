@@ -5,12 +5,6 @@ node_modules
 .env.local
 .env.*.local
 
-# Build outputs
-dist/
-build/
-.next/
-out/
-
 # IDE
 .vscode/
 .idea/
